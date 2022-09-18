@@ -6,6 +6,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 ## 👨🏻‍💻  About Me
@@ -47,24 +52,16 @@ Here are some ideas to get you started:
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&style=flat)
 
 <hr/>
- <h2><img alt="programmingHumor" src="./images/programmingHumor.png" width="2%"/>  Random dev joke for you!</h2>
-<table>
-<tr>
-<td>
-  <div style="background-color:black;color:white; padding:15px; margin-bottom:20px; width:200px;" align="left">    
-    <p style="color:white;"> <span style="color:yellow">Q : </span> Where did API go to eat?</p>
-    <p style="color:white;"><span style="color:orange"> A : </span> To the RESTaurant! </p>
-  </div>
-</td>
-<td>
-<div style="background-color:black;color:white; padding:15px; margin-bottom:20px; width:300px;">  
-<p style="color:white;"><span style="color:yellow">Q :</span> Why do programmers prefer dark mode?</p>
+ <h2><img alt="programmingHumor" src="./images/programmingHumor.png" width="3%"/>  Random dev joke for you!</h2>
 
-<p style="color:white;"><span style="color:orange">A : </span>Because light attracts bugs </p>
-</div>
-</td>
-</tr>
-</table>
+<p></p>
+<table><tr><td style="padding-right:15px;">
+<img src="https://readme-jokes.vercel.app/api?theme=flag-india" alt="Jokes Card" />
+</td><td style="padding-left:15px;">
+<img src="https://readme-jokes.vercel.app/api?theme=solarized-light" alt="Jokes Card" />
+</td></tr></table>
+ 
+
 
 
 <hr/>
