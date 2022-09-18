@@ -55,11 +55,8 @@ Here are some ideas to get you started:
  <h2><img alt="programmingHumor" src="./images/programmingHumor.png" width="3%"/>  Random dev joke for you!</h2>
 
 <p></p>
-<table><tr><td style="padding-right:15px;">
-<img src="https://readme-jokes.vercel.app/api?theme=flag-india" alt="Jokes Card" />
-</td><td style="padding-left:15px;">
-<img src="https://readme-jokes.vercel.app/api?theme=solarized-light" alt="Jokes Card" />
-</td></tr></table>
+
+![Jokes Card](https://readme-jokes.vercel.app/api) &nbsp; &nbsp;&nbsp; ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
  
 
 
