@@ -154,9 +154,11 @@ Here are some ideas to get you started:
 
 ### 🖍 Some quotes that I really like
 
-    "Kindness always wins." -Selena Gomez
 
-    "We rise by lifting others." -Robert Ingersoll
+"Kindness always wins." -Selena Gomez
+
+"We rise by lifting others." -Robert Ingersoll
+
 <hr/>
 
 ## 👋 Bye
