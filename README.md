@@ -20,9 +20,18 @@ Here are some ideas to get you started:
 ## 📱 Contact Me
 <p></p>
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://www.linkedin.com/in/snehal-asodekar-5008223b/">
+  <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:snehalchetanasodekar@gmail.com">
+  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/Snehal#4569/">
+  <img align="center" alt="gmail" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<p></p>
+
 
 ## My GitHub stats!
 ![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalchetan&show_icons=true&theme=codeSTACKr)
