@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨🏻‍💻  About Me
-<p>  I'm a full stack developer. I love programming and am interested & learning to create the best and accessible web applications with enhanced user experience. Do stop by and have a look at my <a href="https://snehalchetan.github.io/html-introduction/"> portfolio</a> too. 😀</p>
+<p>  I'm a full stack developer. I love programming and am interested & learning to create the best and accessible web applications with enhanced user experience. I am eager to gain new skills.😀</p>
     <p> I'm currently studying Junior Fullstack Web Development at BeCode.</p>
      
 ## 📱 Contact Me
