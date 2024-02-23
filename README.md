@@ -1,5 +1,5 @@
 <!--
-**SnehalChetan/SnehalChetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**snehalasodekar/snehalasodekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ## My GitHub stats!
-![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalchetan&show_icons=true&theme=codeSTACKr)
+![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehalasodekar&show_icons=true&theme=codeSTACKr)
 <hr/>
 <img alt="coder" src="./images/femalecodertocat.png" align="right" width="25%"/>
 
@@ -77,13 +77,13 @@ Here are some ideas to get you started:
 <table style="border:none;">
 <tr>
 <td>
-<a href="https://github.com/SnehalChetan/ajax_pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=ajax_pokedex&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/ajax_pokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=ajax_pokedex&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
-<a href="https://github.com/SnehalChetan/php-blackjack-mvc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=php-blackjack-mvc&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/php-blackjack-mvc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=php-blackjack-mvc&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
