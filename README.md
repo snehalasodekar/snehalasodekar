@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👨🏻‍💻  About Me
-<p>  I'm a full stack developer. I love programming and am interested & learning to create the best and accessible web applications with enhanced user experience. I am eager to gain new skills.😀</p>
+<p>  I'm a full-stack developer. I love programming and am interested & in learning to create the best and most accessible web applications with enhanced user experience. I am eager to gain new skills.😀</p>
     <p> I'm currently studying Junior Fullstack Web Development at BeCode.</p>
      
 ## 📱 Contact Me
@@ -107,34 +107,34 @@ Here are some ideas to get you started:
 </a>
 </td>
 <td>
-<a href="https://github.com/SnehalChetan/php-crud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=php-crud&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/php-crud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=php-crud&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
   <tr>
 <td>
-<a href="https://github.com/SnehalChetan/JSGame-Rock-paper-scissors-lizard-spock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=JSGame-Rock-paper-scissors-lizard-spock&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/JSGame-Rock-paper-scissors-lizard-spock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=JSGame-Rock-paper-scissors-lizard-spock&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
 
-<a href="https://github.com/SnehalChetan/js-memory-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=js-memory-game&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/js-memory-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=js-memory-game&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://github.com/SnehalChetan/jacs-digital-jump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=jacs-digital-jump&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/jacs-digital-jump">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=jacs-digital-jump&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
-<a href="https://github.com/SnehalChetan/challenge-bootstrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=challenge-bootstrap&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/challenge-bootstrap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=challenge-bootstrap&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
@@ -145,13 +145,13 @@ Here are some ideas to get you started:
 
 <tr>
 <td>
-<a href="https://github.com/SnehalChetan/basic-angular-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=basic-angular-form&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/basic-angular-form">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=basic-angular-form&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
-<a href="https://github.com/SnehalChetan/baking-with-wordpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=baking-with-wordpress&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/baking-with-wordpress">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=baking-with-wordpress&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
@@ -161,7 +161,7 @@ Here are some ideas to get you started:
 <!-- </center> -->
 <hr/>
 
-### 🖍 Some quotes that I really like
+### 🖍 Some quotes that I like
 
 
 "Kindness always wins." -Selena Gomez
