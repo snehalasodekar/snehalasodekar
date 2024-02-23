@@ -90,20 +90,20 @@ Here are some ideas to get you started:
 
 <tr>
 <td>
-<a href="https://github.com/SnehalChetan/kahoot-but-better">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=kahoot-but-better&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/kahoot-but-better">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=kahoot-but-better&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
-<a href="https://github.com/SnehalChetan/E-commerce-webshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=E-commerce-webshop&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/E-commerce-webshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=E-commerce-webshop&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 </tr>
   <tr>
 <td>
-<a href="https://github.com/SnehalChetan/guestbook-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalchetan&repo=guestbook-php&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/snehalasodekar/guestbook-php">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehalasodekar&repo=guestbook-php&theme=ayu-mirage&layout=compact" />
 </a>
 </td>
 <td>
